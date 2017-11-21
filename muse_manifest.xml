@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="oliviaw.com" resolutions="1x" timestamp="1510670106597">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="oliviaw.com" resolutions="1x" timestamp="1511273749476">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="33836894" ref="index"/>
+    <file name="index.css" crc="4228131653" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -14,25 +14,45 @@
     <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="img_20171111_0003.jpg" crc="3894577611" seo="true" ref="index">
+    <file name="img_20171111_0003.jpg" crc="519587194" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20171111_0006.jpg" crc="247341200" seo="true" ref="index">
+    <file name="img_20171111_0006.jpg" crc="4067875410" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_20171111_0001.jpg" crc="4083443546" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="u94-4.png" crc="420878550" ref="index"/>
-    <file name="screen shot 2017-11-14 at 122721 copy.jpg" crc="4031536322" seo="true" ref="index">
+    <file name="screen shot 2017-11-14 at 122721 copy.jpg" crc="4222851345" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="screen shot 2017-11-14 at 122743 copy.jpg" crc="529763549" ref="index">
+    <file name="screen shot 2017-11-14 at 122743 copy.jpg" crc="4010234178" ref="index" seo="true">
       <caption webpage="index" alt=""/>
     </file>
     <file name="img_20171113_0001.jpg" crc="3871540044" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="screen shot 2017-11-14 at 122849 copy.jpg" crc="504979831" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="iymg_20171111_0006.jpg" crc="3890582412" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_20171111_0002.jpg" crc="4251991424" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u329-4.png" crc="208206620" ref="index"/>
+    <file name="img_201711413_0001.jpg" crc="4165049995" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u296-9.png" crc="3775427826" ref="index"/>
+    <file name="u372-10.png" crc="4079048847" ref="index"/>
+    <file name="u472-24.png" crc="252333459" ref="index"/>
+    <file name="u381-8.png" crc="49638187" ref="index"/>
   </folder>
-  <file name="index.html" crc="360898187" seo="true" mt="1510670039278" redirect="true"/>
+  <file name="index.html" crc="4289571767" seo="true" mt="1511273398831" redirect="true"/>
 </manifest>
